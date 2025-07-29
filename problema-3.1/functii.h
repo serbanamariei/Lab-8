@@ -1,0 +1,11 @@
+#ifndef FUNCTII_H_
+#define FUNCTII_H_
+
+void citire(int stocuri[][10], int n, int m);
+void afisare(int a[][10], int n, int m);
+void citireV(int p[], int m);
+void afisareV(int a[], int n);
+void suma(int s[][10], int a[][10], int b[][10], int n, int m);
+void calculPlata(int plata[],int preturi[], int comenzi[][10], int n, int m);
+
+#endif
